@@ -1,0 +1,23 @@
+{
+  "name": "coffee-ojisan",
+  "version": "0.0.1",
+  "description": "Line bot of coffee ojisan for 20171207 hackson",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "line",
+    "bot"
+  ],
+  "author": "fujii daisuke",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "config": "^1.28.1",
+    "express": "^4.16.2",
+    "linebot": "^1.3.0",
+    "moment": "^2.19.3",
+    "mongoose": "^4.13.6"
+  }
+}
